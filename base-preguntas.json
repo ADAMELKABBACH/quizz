@@ -1,0 +1,82 @@
+[
+  {
+    "categoria": "Astronomía",
+    "pregunta": "Es el planeta más cercano al Sol.",
+    "respuesta": "Mercurio",
+    "incorrecta1": "Urano",
+    "incorrecta2": "Neptuno",
+    "incorrecta3": "Ninguna es correcta\r"
+},
+{
+    "categoria": "Astronomía",
+    "pregunta": "Color verdadero del Sol.",
+    "respuesta": "Blanco",
+    "incorrecta1": "Amarillo",
+    "incorrecta2": "Naranja",
+    "incorrecta3": "Azul\r"
+},
+{
+    "categoria": "Astronomía",
+    "pregunta": "¿En qué galaxia se encuentra la Tierra?",
+    "respuesta": "Vía Láctea",
+    "incorrecta1": "Andrómeda",
+    "incorrecta2": "Enana del Can Mayor",
+    "incorrecta3": "Enana Elíptica de Sagitario\r"
+},
+{
+    "categoria": "Astronomía",
+    "pregunta": "¿Qué es una galaxia?",
+    "respuesta": "Conjunto de estrellas, nubes de gas, planetas, polvo cósmico, materia oscura y energía",
+    "incorrecta1": "Conjunto de estrellas ",
+    "incorrecta2": "Conjunto de planetas que cuentan con características similares unos de otros",
+    "incorrecta3": "Ninguna es correcta\r"
+},
+{
+    "categoria": "Astronomía",
+    "pregunta": "¿Quién inventó el telescopio?",
+    "respuesta": "Galileo Galilei",
+    "incorrecta1": "Isaac Newton",
+    "incorrecta2": "Johannes Kepler",
+    "incorrecta3": "Albert Einstein\r"
+},
+{
+    "categoria": "Astronomía",
+    "pregunta": "¿Cuál es el asteroide más grande conocido?",
+    "respuesta": "Palas 2",
+    "incorrecta1": "Ceres 1",
+    "incorrecta2": "Vesta 4",
+    "incorrecta3": "Hygiea 10\r"
+},
+{
+    "categoria": "Astronomía",
+    "pregunta": "¿Cuál es el mayor satélite del Sistema Solar?",
+    "respuesta": "Ganímedes",
+    "incorrecta1": "Ío",
+    "incorrecta2": "Luna",
+    "incorrecta3": "Europa\r"
+},
+{
+    "categoria": "Astronomía",
+    "pregunta": "¿Cuál es el planeta más caliente?",
+    "respuesta": "Venus",
+    "incorrecta1": "Mercurio",
+    "incorrecta2": "Tierra",
+    "incorrecta3": "Marte\r"
+},
+{
+    "categoria": "Astronomía",
+    "pregunta": "¿Qué es una supernova?",
+    "respuesta": "Una explosión estelar",
+    "incorrecta1": "Un tipo de estrella",
+    "incorrecta2": "Nombre científico del Sol",
+    "incorrecta3": "Un tipo de estrella\r"
+},
+{
+    "categoria": "Astronomía",
+    "pregunta": "¿Cuál es el planeta más grande del Sistema Solar?",
+    "respuesta": "Júpiter",
+    "incorrecta1": "Saturno",
+    "incorrecta2": "Neptuno",
+    "incorrecta3": "Titán\r"
+}
+]
